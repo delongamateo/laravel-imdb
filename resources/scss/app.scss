@@ -1,3 +1,23 @@
 * {
     box-sizing: border-box;
+    background-color: green;
+}
+
+body {
+    background-color: green;
+    color: white;
+}
+
+.nav {
+
+    a {
+        font-size: 20px;
+        color: white;
+        margin-left: 20px;
+    }
+}
+
+svg {
+    height: 20px;
+    width: 20px;
 }
